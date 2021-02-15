@@ -1,3 +1,27 @@
+# Breaking bad App :scientist: :open_file_folder:
+
+Hello github friends! :octocat:
+
+This is the code of a character searcher from the Breaking Bad series developed in reactjs, it provides you the name of the character, who plays it, the date of birth and its status. I developed it as a practice to improve my react skills.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and use the [breaking bad api](https://www.breakingbadapi.com/api/) to show and filter characters from the show
+
+### Requirements
+Basic knowledge of:
+
+:star2: Javascript
+
+:star2: Reactjs
+
+:star2: Css
+
+:star2: Responsive web design
+
+
+### Screenshot :camera_flash:
+![](https://instagram.fccs3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/149513234_894104004741435_2959253445039383032_n.jpg?_nc_ht=instagram.fccs3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=i8etsz8gPOAAX-xIl2P&tp=1&oh=eb6fe3042ac586482aeea19a64a7c80b&oe=60531786&ig_cache_key=MjUwOTQzNDU0MDUxNTUxNTQ2MA%3D%3D.2)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,26 +69,9 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Acknowledgments
+The amazing work at [Brad Traversy](https://github.com/bradtraversy).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Stay In Touch
+- [Codepen](https://mit-license.org/) 
+- [Twitter](https://twitter.com/miricailopez)
